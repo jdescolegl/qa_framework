@@ -1,0 +1,18 @@
+pytest-html==2.1.1
+pydantic
+requests
+pytest-random-order~=1.0.4
+polling2~=0.4.5
+python-dateutil~=2.8.1
+python-dotenv~=0.15.0
+flake8~=3.9.0
+pytest-xdist
+flaky
+allure-pytest==2.8.13
+selenium
+pytest
+webdriver_manager
+xdist
+sphinx
+allure-pytest
+qa_commons @git+ssh://git@github.com/jdescolegl/qa_commons.git@v1.0.0#egg=qa_commons
